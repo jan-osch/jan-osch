@@ -8,13 +8,7 @@
 * 🏃‍♂️ Marathon runner 🚵 Mountain biker 📽️ Cinema geek 🎿 Ski instructor 📷 Video maker
 * 😅 Cat owner 🐈 ☕💻
 
-<br/>
-<br/>
-
-[Hire me!][website]
-
-<br/>
-<br/>
+I'm looking for interesting project to collaborate on - [hire me!][website]
 
 ### How to reach me
 [<img align="left" alt="Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
