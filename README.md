@@ -1,7 +1,7 @@
 # Hi there, I'm Jan 👋
 
 ## I'm a product-oriented  Fullstack Engineer 🇵🇱🇬🇧🇩🇪
-* 🚀 6+ years of experience building internet services
+* 🚀 6+ years of experience building SaaS tools
 * 🎓 MSc degree in Computer Science (wrote a thesis on microservices) 
 * 🏛️ Architect turned Software Engineer 
 * 🧑‍💻 Passionate about building delightful products for developers
