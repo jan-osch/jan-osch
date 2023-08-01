@@ -1,14 +1,14 @@
 # Hi there, I'm Jan 👋
 
-## I'm a product-oriented  Fullstack Engineer 🇵🇱🇬🇧🇩🇪
-* 🚀 6+ years of experience building SaaS tools
-* 🎓 MSc degree in Computer Science (wrote a thesis on microservices) 
+## I'm a product-oriented Cloud Engineer 🇵🇱🇬🇧🇩🇪
+* 🚀 8+ years of experience building SaaS tools
+* 🎓 MSc degree in Computer Science (Thesis: Scalability of Microservices) 
 * 🏛️ Architect turned Software Engineer 
 * 🧑‍💻 Passionate about building delightful products for developers
 * 🏃‍♂️ Marathon runner 🚵 Mountain biker 📽️ Cinema geek 🎿 Ski instructor 📷 Video maker
 * 😅 Cat owner 🐈 ☕💻
 
-I'm looking for interesting project to collaborate on - [hire me!][website]
+I'm looking for an interesting project to collaborate on - [hire me!][website]
 
 ### How to reach me
 [<img align="left" alt="Twitter" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
