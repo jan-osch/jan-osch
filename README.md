@@ -1,6 +1,6 @@
 # Hi there, I'm Jan 👋
 
-## I'm a product-oriented Cloud Engineer 🇵🇱🇬🇧🇩🇪
+## I'm a product-oriented cloud engineer 🇵🇱🇬🇧🇩🇪
 * 🚀 8+ years of experience building SaaS tools
 * 🎓 MSc degree in Computer Science (Thesis: Scalability of Microservices) 
 * 🏛️ Architect turned Software Engineer 
